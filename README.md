@@ -50,21 +50,17 @@ Esse endpoint deve receber um tipo ("normal" ou "evento") e retornar todos os po
 
 # Arquitetura 
 
-## - MVC
-
-# Comandos para recriar bando de dados
-
-## ./comandosDoBanco
+- MVC
 
 # Como iniciar o projeto
 
 ### Entre no diretório do projeto e execute:
 
-## `npm install`
+`npm install`
 
 Instala as dependencias do projeto.
 
-## `npm start`
+`npm start`
 
 Executa o servidor na porta 3000.<br />
 Abra [http://localhost:3000](http://localhost:3000) para fazer requisições.
