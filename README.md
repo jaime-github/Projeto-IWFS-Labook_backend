@@ -1,6 +1,6 @@
 > Status do Projeto: Concluido
 
-# Labook
+# Projeto: Labook
 
 O LaBook é uma rede social com o objetivo de promover a conexão e interação entre seus mais diversos usuários. Os usuários podem criar posts de dois tipos ("evento" ou "normal), comentá-los e curti-los também.
 
