@@ -40,13 +40,13 @@ Esse endpoint deve receber um tipo ("normal" ou "evento") e retornar todos os po
 
 # Linguagens de programação e bibliotecas utilizadas
 
-## - TypeScript
-## - Node
-## - Express
-## - MySQL
-## - UUID
-## - BcryptJS
-## - Jsonwebtoken
+- TypeScript
+- Node
+- Express
+- MySQL
+- UUID
+- BcryptJS
+- Jsonwebtoken
 
 # Arquitetura 
 
